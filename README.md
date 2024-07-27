@@ -44,7 +44,7 @@ Here are a few highlights of my journey so far:
 ### Let's Connect!
 
 - 📧 [Email Me](mailto:davidmario484@gmail.com)
-- 🌐 [LinkedIn]([https://www.linkedin.com/in/your-linkedin/](https://www.linkedin.com/in/david-mario-yohanes-samosir/))
+- 🌐 [LinkedIn]([https://www.linkedin.com/in/david-mario-yohanes-samosir/])
 
 
 ---
