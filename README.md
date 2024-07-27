@@ -6,6 +6,11 @@ I'm a passionate student at Universitas Pendidikan Ganesha with a strong interes
 
 ---
 
+
+<a href="https://github.com/DavidMarioYS"><img src="https://github-readme-stats.vercel.app/api?username=DavidMarioYS&show_icons=true&theme=radical"></a>
+
+
+
 ### About Me
 
 - 🎤 **Hobbies**: Singing, Reading Comics, Watching Movies, Traveling
