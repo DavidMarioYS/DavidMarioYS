@@ -27,7 +27,7 @@
 > 🎯 Trained in various industry-standard **soft skills and hard skills**.
 
 #### 🖥️ <strong>IT Support Intern - SMAN 1 Cibinong</strong>  
-> 🗓️ 2021  
+> 🗓️ 2016  
 > 🔧 Handled **network installation, troubleshooting, and configuration** of computers, Wi-Fi, and printers.  
 > 🧪 Supported computer-based **school and national exams** (CBT system).
 
@@ -55,6 +55,14 @@
   <a href="https://github.com/DavidMarioYS">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=DavidMarioYS&theme=radical" alt="David's GitHub streak"/>
   </a>
+</p>
+
+---
+
+### 🧠 Inspirational Quote of the Day
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote of the Day" />
 </p>
 
 ---
