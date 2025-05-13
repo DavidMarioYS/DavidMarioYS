@@ -1,68 +1,87 @@
----
+<h1 align="center">Hi, I'm <strong>David Mario Yohanes Samosir</strong> 👋</h1>
 
-### Hi there, I'm David Mario! 👋
+<p align="center">
+  <strong>Computer Science Graduate | AI & ML Enthusiast | Passionate Builder of Smart Solutions</strong>
+</p>
 
-I'm a passionate student at Universitas Pendidikan Ganesha with a strong interest in Computer Networks and Artificial Intelligence. My journey in tech has been fueled by a love for learning and adapting, whether in social settings or academic environments.
-
----
-
-
-<a href="https://github.com/DavidMarioYS"><img src="https://github-readme-stats.vercel.app/api?username=DavidMarioYS&show_icons=true&theme=radical"></a>
-
-
-
-### About Me
-
-- 🎤 **Hobbies**: Singing, Reading Comics, Watching Movies, Traveling
-- 🌈 **Favorite Color**: Blue
-- 🍽️ **Favorite Food**: Ikan Lele (Catfish)
-- 🎵 **Favorite Music Genre**: Pop & Jazz
-- 🏸 **Favorite Sport**: Badminton
+<p align="center">
+  🎓 <strong>Bachelor of Computer Science</strong> - Universitas Pendidikan Ganesha<br>
+  🏅 <strong>GPA:</strong> 3.96<br>
+  💡 Passion in <strong>Artificial Intelligence</strong>, <strong>Machine Learning</strong>, and <strong>Deep Learning</strong>
+</p>
 
 ---
 
-### My Interests
+### 🚀 Professional Experiences
 
-I have a keen interest in:
-- **Computer Networks**: Proficient in basic Mikrotik configurations.
-- **Artificial Intelligence**: Enthusiastically exploring and building AI models.
-  
----
+#### 🧠 <strong>AI Engineer - Dago Engineering</strong>  
+> 🗓️ Aug – Dec 2024  
+> ⚙️ Contributed to a large-scale **Image Segmentation** project for detecting pipe corrosion.  
+> 🔍 Designed a **Binary Class Segmentation Model**, comparing architectures for quality and efficiency.  
+> 📊 Also involved in **Decision Support System (SPK)** development as initial task.
 
-### My Skills
+#### 🤖 <strong>Machine Learning Specialist - Bangkit Academy (by Google, Gojek, Tokopedia, Traveloka)</strong>  
+> 🗓️ Feb – Jul 2024  
+> 🤝 Formed and led a Capstone project team.  
+> 🧭 Built a **Tourism Recommendation System** using **Content-Based Filtering** (CBF).  
+> 🎯 Trained in various industry-standard **soft skills and hard skills**.
 
-- **IT Support**: Internship experience at SMAN 1 Cibinong.
-- **Machine Learning**: Participated in the Machine Learning Cohorts at Bangkit Academy.
-- **Computer Repair**: Skilled in fixing and troubleshooting computers.
+#### 🖥️ <strong>IT Support Intern - SMAN 1 Cibinong</strong>  
+> 🗓️ 2021  
+> 🔧 Handled **network installation, troubleshooting, and configuration** of computers, Wi-Fi, and printers.  
+> 🧪 Supported computer-based **school and national exams** (CBT system).
 
----
-
-### Projects & Experiences
-
-Here are a few highlights of my journey so far:
-
-- **IT Support Intern at SMAN 1 Cibinong**: Assisted in maintaining the school's IT infrastructure, providing support for hardware and software issues.
-- **Machine Learning Cohorts at Bangkit Academy**: Gained hands-on experience in developing machine learning models, data preprocessing, and hyperparameter tuning.
-
----
-
-### Let's Connect!
-
-- 📧 [Email Me](mailto:davidmario484@gmail.com)
-- 🌐 [LinkedIn](https://www.linkedin.com/in/david-mario-yohanes-samosir/)
-
+#### 🔬 <strong>Researcher - Virtual Vision Image and Pattern Recognition (UNDIKSHA)</strong>  
+> 📘 Focused on **Multi-Class Semantic Segmentation** of corroded pipelines.  
+> 🧠 This project also became my undergraduate thesis and academic research foundation.
 
 ---
 
-### Fun Facts
+### 🧰 Tech Stack & Tools
 
-- I love singing and often find myself belting out tunes while coding.
-- I'm an avid reader of comics, which fuels my imagination and creativity.
-- Movies are my escape, providing both relaxation and inspiration.
-- I enjoy traveling and exploring new places, especially those with rich cultures and beautiful landscapes.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,keras,pytorch,scikit-learn,vscode,git,streamlit,html" alt="Tech Stack" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/DavidMarioYS">
+    <img src="https://github-readme-stats.vercel.app/api?username=DavidMarioYS&show_icons=true&theme=radical" alt="David's GitHub stats"/>
+  </a>
+  <br>
+  <a href="https://github.com/DavidMarioYS">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DavidMarioYS&theme=radical" alt="David's GitHub streak"/>
+  </a>
+</p>
 
 ---
 
-Thanks for stopping by! Feel free to reach out if you want to collaborate on a project, discuss tech, or simply chat about badminton!
+### 🎯 Soft Skills
+
+✅ Critical Thinking  
+✅ Problem Solving  
+✅ Communication & Collaboration  
+✅ Time Management  
+✅ Adaptability & Open to Feedback  
+✅ Analytical Thinking
 
 ---
+
+### 🎵 Fun Facts
+
+- 🎤 I love **singing** and listening to music  
+- 🏸 Badminton keeps me active and energized  
+- 🎬 I enjoy watching **movies and exploring new places**
+
+---
+
+### 📫 Let's Connect!
+
+<p align="center">
+  <a href="mailto:davidmario484@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/davidmarioys/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/DavidMarioYS"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
