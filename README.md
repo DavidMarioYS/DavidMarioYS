@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,30&height=200&section=header&text=David%20Mario%20Yohanes%20Samosir&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Automation%20Specialist%20%7C%20Computer%20Vision&descAlignY=60&descSize=16" />
 
 <!-- Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Building+Intelligent+Automation+Systems+%F0%9F%A4%96;Turning+Data+into+Production-Ready+AI+%F0%9F%9A%80;Computer+Vision+%7C+NLP+%7C+Deep+Learning+%F0%9F%A7%A0;LLM+Integration+%7C+ERP+Automation+%7C+MLOps+%E2%9A%99%EF%B8%8F" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&height=45&lines=Building+Intelligent+Automation+Systems;Turning+Raw+Data+into+Production-Ready+AI;Computer+Vision+%7C+NLP+%7C+Deep+Learning;LLM+Integration+%7C+ERP+Automation+%7C+MLOps" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -227,7 +227,7 @@ class DavidMario:
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DavidMarioYS&theme=tokyo-night&bg_color=1a1b27&color=628fdb&line=6C63FF&point=ffffff&area=true&hide_border=true" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DavidMarioYS&theme=tokyonight" />
 
 </div>
 
