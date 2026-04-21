@@ -26,21 +26,21 @@
     <td width="50%" valign="top">
       <h3>👤 Profile</h3>
       <ul>
-        <li><b>Name:</b> David Mario Yohanes Samosir [cite: 1]</li>
-        <li><b>Role:</b> IT Network & AI Engineer [cite: 1]</li>
-        <li><b>Education:</b> B.Sc. Computer Science — GPA 3.96/4.00 [cite: 6]</li>
-        <li><b>Location:</b> West Java, Indonesia 🇮🇩 [cite: 1]</li>
-        <li><b>Languages:</b> Bahasa Indonesia (Native), English (B1) [cite: 6]</li>
+        <li><b>Name:</b> David Mario Yohanes Samosir</li>
+        <li><b>Role:</b> AI Engineer & ERP Automation Specialist</li>
+        <li><b>Education:</b> B.Sc. Computer Science — GPA 3.96/4.00</li>
+        <li><b>Location:</b> Indonesia 🇮🇩</li>
+        <li><b>Languages:</b> Bahasa Indonesia (Native), English (B1)</li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <h3>🎯 Expertise</h3>
       <ul>
-        <li>🤖 AI Engineering & Deep Learning [cite: 6]</li>
-        <li>⚙️ Enterprise Automation & ERP Integration [cite: 6]</li>
-        <li>👁️ Computer Vision & Image Segmentation [cite: 6]</li>
-        <li>🔗 LLM Integration & Workflow Automation [cite: 6]</li>
-        <li>🚀 End-to-End ML Deployment & MLOps [cite: 6]</li>
+        <li>🤖 AI Engineering & Deep Learning</li>
+        <li>⚙️ Enterprise Automation & ERP Integration</li>
+        <li>👁️ Computer Vision & Image Segmentation</li>
+        <li>🔗 LLM Integration & Workflow Automation</li>
+        <li>🚀 End-to-End ML Deployment & MLOps</li>
       </ul>
     </td>
   </tr>
