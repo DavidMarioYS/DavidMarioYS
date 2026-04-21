@@ -1,14 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=David%20Mario%20Yohanes%20Samosir&fontSize=32&fontColor=ffffff&fontAlignY=40&desc=AI%20Engineer%20%7C%20ERP%20Automation%20Specialist%20%7C%20Computer%20Vision%20Builder&descAlignY=62&descSize=15&descColor=c8b8ff" />
+<!-- Typing animation banner -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+David+Mario+%F0%9F%91%8B;AI+Engineer+%7C+Automation+Builder;Computer+Vision+Specialist;ERP+%26+Workflow+Automation+Expert" alt="Typing SVG" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=a78bfa&center=true&vCenter=true&width=700&lines=Building+Enterprise+Automation+at+Scale+%F0%9F%9A%80;AI+%2B+ERP+%2B+Computer+Vision+Engineer+%F0%9F%A4%96;Python+%7C+n8n+%7C+Flask+%7C+Docker+%7C+PyTorch;From+Data+Pipeline+to+Production+Deployment+%E2%9C%85)](https://git.io/typing-svg)
+<br/>
 
-<p>
-  <a href="mailto:davidmario484@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/david-mario-yohanes-samosir"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/DavidMarioYS"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
+<a href="mailto:davidmario484@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/david-mario-yohanes-samosir"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/DavidMarioYS"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=DavidMarioYS&label=Profile+Views&color=00d9ff&style=flat-square" alt="Profile Views"/>
 
 </div>
 
@@ -16,220 +19,222 @@
 
 ## 🧠 About Me
 
-Hi! I'm **David**, an **AI Engineer** and **Computer Science graduate** (GPA: 3.96/4.00) with a strong passion for building smart, scalable systems. I specialize in:
+```python
+class DavidMario:
+    name       = "David Mario Yohanes Samosir"
+    role       = "AI Engineer | ERP Automation Specialist"
+    education  = "B.Sc. Computer Science — GPA 3.96/4.00"
+    location   = "Indonesia 🇮🇩"
+    languages  = ["Bahasa Indonesia (Native)", "English (B1)"]
 
-- 🏭 **Enterprise ERP Automation** — end-to-end data pipelines integrating manufacturing databases with Microsoft Dynamics 365 Business Central using Python, Flask, n8n, and Docker
-- 👁️ **Computer Vision** — image segmentation, object detection, real-time video inference (YOLO, U-Net, BiSeNet)
-- 🤖 **AI/ML Engineering** — deep learning research, model training, and cross-platform deployment (TFLite, ONNX, TensorFlow.js)
-- ⚙️ **Intelligent Automation** — LLM-integrated workflows (Google Gemini, Groq Llama 3.3), WhatsApp Bot APIs, and Google Workspace automation
+    focus_areas = [
+        "🤖 AI & Deep Learning",
+        "⚙️  Enterprise Automation & ERP Integration",
+        "👁️  Computer Vision",
+        "🔗 Microservices & API Engineering",
+    ]
 
-> _"I build systems that make hours of manual work disappear."_
+    current_work = "Building production-scale ERP automation ecosystems"
+    thesis       = "Multi-Class Semantic Segmentation for Pipeline Corrosion Detection"
+    thesis_result = "BiSeNetV3: 96.12% mIoU | 97.91% Dice Score"
+```
 
 ---
 
 ## 💼 Professional Experience
 
-### 🏢 ERP AI Specialist — AI ERP Division *(June 2025 – Present)*
-> Engineering enterprise-grade automation for large-scale manufacturing operations.
+### ⚙️ ERP AI Specialist *(2025 – Present)*
+> **Enterprise-Scale Automation Engineering**
 
-- Designed and deployed **6+ end-to-end data automation pipelines** handling manufacturing data, BOM, and Routing — reducing processing time from hours to minutes per batch
-- Architected a **3-Layer microservices system** (Controller → Service → Logic) in Python (Flask/FastAPI), orchestrated via **n8n** and deployed on **Docker**
-- Built seamless integrations between **MariaDB**, **Google Workspace APIs** (Drive, Sheets), and **Microsoft Dynamics 365 Business Central** via **OData V4**
-- Implemented advanced API reliability mechanisms: counter-based rate limiting, exponential backoff, session auto-refresh, and circuit breakers ensuring **zero data loss** during high-volume ERP postings
-- Developed data transformation engines using **pandas**, **openpyxl**, and **xlwings** with real-time operational alerts via **WhatsApp Bot API**
+Engineered a production-grade automation ecosystem powering **6+ major data pipelines** for complex manufacturing operations, covering raw data, BOM, Routing, Transfer Orders, and Finished Goods.
 
----
+**What I built:**
+- 🏗️ **3-Layer Architecture** (Controller → Service → Logic) in Python (Flask/FastAPI) — cutting data processing from hours to minutes per batch
+- 🔗 **Microservices Orchestration** via n8n integrating third-party manufacturing databases (MariaDB), Google Workspace APIs (Drive, Sheets), and Microsoft Dynamics 365 Business Central via OData V4
+- 🛡️ **API Reliability Engineering**: counter-based rate limiting (500 req/batch), exponential backoff, session auto-refresh, and circuit breakers for zero data loss during high-volume ERP postings
+- 📊 **Automated Data Transformation** with pandas, openpyxl, xlwings processing thousands of daily production records
+- 📲 **Real-Time Operational Alerts** via WhatsApp Bot API for live validation notifications
 
-### 🔬 AI Engineer (Student Researcher) — VVIP-RG Research Group, Undiksha *(Nov 2024 – Feb 2025)*
-- Researched **multi-class semantic segmentation** for pipeline corrosion detection, comparing Mobile U-Net and BiSeNetV3 with EfficientNetB1 backbone
-- Published and presented research findings as invited speaker in academic sharing sessions
+**Automation Pipelines Delivered:**
 
----
-
-### 🧪 AI Engineer Intern — PT Dago Engineering *(Aug – Dec 2024)*
-- Built and benchmarked **4 segmentation models** (Mobile U-Net, FCN-8, BiSeNetV2, ResNet-50) for a binary image segmentation task
-- Delivered production-ready solution with **Streamlit** deployment; received **"Sangat Baik" (Outstanding)** rating
-
----
-
-### 🎓 ML Specialist Intern — Bangkit Academy *(Feb – Jul 2024)*
-- Developed a **Tourism Recommendation System** using Content-Based Filtering across the full ML pipeline
-- Converted models (H5 → TFLite + TensorFlow.js) for cross-platform mobile and web deployment
-- Graduated as **Distinction Graduate** from Google × Tokopedia × Gojek × Traveloka program
+| Pipeline | Description | Stack |
+|----------|-------------|-------|
+| 🪟 Glass Processing Automation | End-to-end XML/Excel ingestion → Work Order generation → ERP posting | Python, Flask, n8n |
+| 🎨 Accessory Color-Variant Pipeline | Automated accessory color/bin/powder data sync to ERP | Flask, Google Drive, OData |
+| 🏠 Aluminum Panel Automation | Panel data monitoring → BOM/Routing generation → ERP integration | Python, pandas, n8n |
+| 📦 New Item Registration Pipeline | Auto-registers new aluminum items with BOM & Routing to ERP | Flask, OData V4, openpyxl |
+| 🔄 Transfer Order Automation | Full BOM-to-ERP transfer order pipeline with real-time validation | Python, MariaDB, n8n |
+| 🏭 Production Order (RPO) Automation | 6-stage pipeline: Cutting → Item FG → RPO → Routing → Components | Python, Flask, BC OData |
 
 ---
 
-## 🚀 Featured Projects
+### 🔬 AI Engineer – Student Researcher *(Nov 2024 – Feb 2025)*
+> **Universitas Pendidikan Ganesha — VVIP-RG Research Group**
 
-### 🏭 Enterprise ERP Automation Ecosystem *(2025 – Present)*
-> 6 production-grade automation pipelines built for large-scale manufacturing
-
-| Pipeline | Description | Tech |
-|----------|-------------|------|
-| **Finished Goods Automation** | End-to-end: extract from manufacturing DB → transform → POST to ERP (Released Production Orders, Routing, Components) | Python, MariaDB, BC OData V4 |
-| **Transfer Order Automation** | Automate aluminium Transfer Orders from BOM software to ERP, with WhatsApp validation alerts | n8n, Flask, Python, Google Drive |
-| **Accessory Color-Variant Pipeline** | Automated BOM & Routing posting for accessory color variants | Flask, pandas, Google Sheets |
-| **Glass Processing Automation** | XML/Excel ingestion → Work Order generation from glass manufacturing data | Python, openpyxl |
-| **Panel Data Automation** | Item creation & BC posting for aluminium panel production data | Python, BC OData V4 |
-| **New Item Registration Pipeline** | Auto-register new aluminium die items to ERP from manufacturing output | Flask REST API, n8n, Docker |
-
-> **Architecture:** 3-Layer (Controller · Service · Logic) · Docker Compose · n8n Orchestration · Rate Limiting · Exponential Backoff
+- Researched **multi-class semantic segmentation** for pipeline corrosion detection
+- Compared **Mobile U-Net** vs **BiSeNetV3 (EfficientNetB1 backbone)** on 256×256 pipeline images
+- BiSeNetV3 achieved **96.12% mIoU** and **97.91% Dice Score** at 0.48s/image inference
+- Delivered findings as invited speaker at academic sharing sessions
 
 ---
 
-### 📱 SmartPhn — AI Smartphone Advisor *(2026)*
-> [🔗 Live Demo](https://smart-phn-syqd.vercel.app)
+### 🤖 AI Engineer Intern *(Aug – Dec 2024)*
+> **PT Dago Engineering** · Rating: **"Sangat Baik" (Outstanding)**
 
-KNN-based smartphone recommendation engine covering 395 devices. Achieves **93.98% heuristic accuracy** validated across 90 test scenarios. Deployed on Vercel with FastAPI backend + HTML/JS frontend.
-
-`FastAPI` `KNN` `MinMaxScaler` `Vercel` `JavaScript`
-
----
-
-### 🌐 DMNet — Professional IT Network Suite *(2026)*
-> [🔗 Live Demo](https://dm-net-app.vercel.app)
-
-Full-stack network planning app with IPv4/IPv6 calculator, Smart Advisor, VLSM/FLSM subnet planner, CSV export, and AI chatbot powered by **Groq Llama 3.3 (70B)** for multilingual networking queries.
-
-`Node.js` `FastAPI` `Groq Llama 3.3` `Vercel Serverless` `Tailwind CSS`
+- Built and benchmarked 4 segmentation models: **Mobile U-Net**, **FCN-8**, **BiSeNetV2**, **ResNet-50**
+- Managed complete ML pipeline: data labeling, preprocessing, augmentation → Streamlit deployment
+- Presented model metrics and progress directly to clients
 
 ---
 
-### 📝 CV Analysis & Scoring Pipeline *(2025)*
-Automated HR screening workflow: file upload → **Google Gemini Pro** PDF analysis → weighted scoring (1–100) → auto-populate to Google Sheets. Containerized with **Docker Compose**.
+### 🎓 ML Specialist Intern *(Feb – Jul 2024)*
+> **Bangkit Academy** by Google, Tokopedia, Gojek, Traveloka · **Distinction Graduate**
 
-`n8n` `Google Gemini Pro` `Docker` `Google Sheets` `Google Drive`
-
----
-
-### 🍾 Bottle Type Detection & Classification *(2025)*
-Real-time AI system detecting plastic/glass/spray bottles from video streams. Full MLOps lifecycle: labeling → training → fine-tuning → deployment.
-
-`YOLOv8` `MobileNetV2` `Streamlit` `OpenCV` `Python`
+- Built a **Content-Based Filtering tourism recommendation system** end-to-end
+- Converted H5 models → TFLite & TensorFlow.js for cross-platform deployment
+- Delivered capstone presentation in English to an international panel
 
 ---
 
-### 🌍 NLLB Multilingual Translator *(2025)*
-Web-based translator using **Meta's NLLB** model, supporting Indonesian regional languages. Real-time translation request handling with interactive frontend.
+## 🚀 Projects
 
-`Python` `Streamlit` `Meta NLLB` `FastAPI`
+<details>
+<summary><b>🤖 SmartPhn — AI-Powered Smartphone Advisor (2026)</b></summary>
 
----
+> `FastAPI` · `KNN` · `Machine Learning` · `Vercel` · [Live Demo ↗](https://smart-phn-syqd.vercel.app)
 
-### 🔬 Pipeline Corrosion Segmentation *(Thesis, 2025)*
-Compared **Mobile U-Net** vs **BiSeNetV3** (EfficientNetB1 backbone) on 256×256 pipeline corrosion images. BiSeNetV3 achieved **96.12% mIoU** and **97.91% Dice score** at 0.48s/image inference — deployed for industrial inspection.
+- Recommends from **395 smartphones** using a KNN engine with MinMaxScaler preprocessing
+- Achieved **93.98% heuristic accuracy** across 90 test scenarios
+- IR Metrics: Precision@5: 57.03% | MRR: 52.66% | NDCG@5: 52.73%
 
-`PyTorch` `TensorFlow` `OpenCV` `Streamlit` `Semantic Segmentation`
+</details>
+
+<details>
+<summary><b>🌐 DMNet — Professional IT Network Suite (2026)</b></summary>
+
+> `Node.js` · `FastAPI` · `Groq Llama 3.3 (70B)` · `Vercel Serverless` · [Live Demo ↗](https://dm-net-app.vercel.app)
+
+- IPv4/IPv6 calculator, Smart Advisor, automated VLSM/FLSM subnet planner with CSV export
+- AI chatbot powered by **Groq Llama 3.3 (70B)** supporting Indonesian & English
+- Glassmorphism UI deployed serverless on Vercel
+
+</details>
+
+<details>
+<summary><b>📋 Automated CV Analysis & Scoring Pipeline (2025)</b></summary>
+
+> `n8n` · `Google Gemini Pro` · `Docker` · `Google Sheets` · `Google Drive`
+
+- End-to-end HR screening workflow triggered by new Drive uploads
+- **Weighted scoring (1–100)** with predefined criteria, auto-populating Google Sheets
+- Containerized with Docker Compose for reproducible deployment
+
+</details>
+
+<details>
+<summary><b>🍾 Computer Vision: Bottle Type Detection & Classification (2025)</b></summary>
+
+> `YOLOv8` · `MobileNetV2` · `Streamlit` · `MLOps`
+
+- Real-time multi-class detection (plastic, glass, spray) from video streams and live camera
+- Full MLOps lifecycle: dataset labeling → augmentation → training → Streamlit deployment
+
+</details>
+
+<details>
+<summary><b>🌏 NLLB Multilingual Translator (2025)</b></summary>
+
+> `Python` · `Streamlit` · `Meta NLLB`
+
+- Web-based translator using **Meta's NLLB** model, supporting Indonesian regional languages
+- Real-time translation request handling with interactive frontend
+
+</details>
 
 ---
 
 ## 🛠️ Tech Stack
 
-### AI / Machine Learning
-<p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv" />
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logo=yolo&logoColor=black"/>
-  <img src="https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TFLite-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"/>
-</p>
+<div align="center">
 
-### Automation & ERP Integration
-<p>
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-  <img src="https://skillicons.dev/icons?i=docker" />
-  <img src="https://img.shields.io/badge/MS_Dynamics_365-00A4EF?style=flat-square&logo=microsoft&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OData_V4-0078D4?style=flat-square&logo=microsoft&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square&logo=google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Groq_Llama_3.3-1877F2?style=flat-square&logo=meta&logoColor=white"/>
-</p>
+### AI / ML
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
 
-### Data & Tools
-<p>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenPyXL-1E6F5C?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
-  <img src="https://skillicons.dev/icons?i=git,vscode,github" />
-  <img src="https://img.shields.io/badge/Google_Workspace-4285F4?style=flat-square&logo=google&logoColor=white"/>
-</p>
+### Automation & Backend
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-### Deployment & Web
-<p>
-  <img src="https://skillicons.dev/icons?i=vercel,nodejs,html,js" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Serverless-FD5750?style=flat-square&logo=serverless&logoColor=white"/>
-</p>
+### LLM & APIs
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq_Llama-FF6600?style=for-the-badge&logoColor=white)
+![Microsoft Dynamics](https://img.shields.io/badge/MS_Dynamics_365-002050?style=for-the-badge&logo=microsoft&logoColor=white)
+
+### Data & Deployment
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DavidMarioYS&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidMarioYS&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Top Languages"/>
+</div>
 
-<a href="https://github.com/DavidMarioYS">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=DavidMarioYS&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidMarioYS&layout=compact&theme=tokyonight&hide_border=true" />
-</a>
-
-<br/>
-
-<a href="https://github.com/DavidMarioYS">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DavidMarioYS&theme=tokyonight&hide_border=true" />
-</a>
-
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DavidMarioYS&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 ---
 
-## 🎓 Education & Certifications
+## 🏆 Certifications & Achievements
 
-**B.Sc. Computer Science** — Universitas Pendidikan Ganesha, Bali *(2021–2025)* | **GPA: 3.96 / 4.00**
-> Thesis: Comparative Analysis of Semantic Segmentation Models for Pipeline Corrosion Detection
-
-<details>
-<summary><b>📜 View Certifications</b></summary>
-
-- Natural Language Processing Specialization — *deeplearning.ai / Coursera*
-- Advanced Computer Vision with TensorFlow — *deeplearning.ai / Coursera*
-- TensorFlow: Data and Deployment Specialization — *deeplearning.ai / Coursera*
-- Machine Learning Specialization — *deeplearning.ai / Coursera*
-- Google Data Analytics Professional Certificate — *Google / Coursera*
-- Machine Learning Terapan — *Dicoding Indonesia*
-- ICEE Level B1 – Intermediate English Proficiency
-
-</details>
+| Badge | Certificate |
+|-------|-------------|
+| 🎓 | Natural Language Processing Specialization — *deeplearning.ai / Coursera* |
+| 🎓 | Advanced Computer Vision with TensorFlow — *deeplearning.ai / Coursera* |
+| 🎓 | TensorFlow: Data and Deployment Specialization — *deeplearning.ai / Coursera* |
+| 🎓 | Machine Learning Specialization — *deeplearning.ai / Coursera* |
+| 🎓 | Google Data Analytics Professional Certificate — *Google / Coursera* |
+| 🏅 | **Distinction Graduate** — Bangkit Academy (Google, Gojek, Tokopedia, Traveloka) |
+| ⭐ | **"Sangat Baik" (Outstanding)** — Field Work Program, PT Dago Engineering |
+| 🏆 | **Top 163** — Innovilage Social Project Program |
 
 ---
 
-## 🏆 Awards
+## 🎵 A Little About Me
 
-| Award | Organization | Year |
-|-------|-------------|------|
-| 🥇 "Sangat Baik" (Outstanding) | PT Dago Engineering | 2024 |
-| 🎓 Distinction Graduate — Machine Learning Track | Bangkit Academy (Google) | 2024 |
-| 🏅 Top 163 — Innovilage Social Project | Innovilage Program | 2023 |
-
----
-
-## 🎵 Fun Facts
-
-- 🎤 I love **singing** and listening to music
-- 🏸 Badminton keeps me active and energized
-- 🎬 I enjoy watching movies and exploring new places
+- 🎤 Love **singing** and exploring new music
+- 🏸 Badminton keeps me sharp and energized
+- 🎬 Movie nights and travel are my reset buttons
+- 💡 Firm believer: *automation should free humans to do what machines can't*
 
 ---
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+### 🧠 Quote of the Day
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote"/>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer"/>
+*"Building systems that think, automate, and scale."*
+
+**— David Mario Yohanes Samosir**
 
 </div>
