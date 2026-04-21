@@ -17,31 +17,36 @@
 
 ---
 
+---
+
 ## 👨‍💻 About Me
 
-```python
-class DavidMario:
-    def __init__(self):
-        self.name       = "David Mario Yohanes Samosir"
-        self.role       = "AI Engineer & ERP Automation Specialist"
-        self.education  = "B.Sc. Computer Science — GPA 3.96/4.00"
-        self.location   = "Indonesia 🇮🇩"
-        self.languages  = ["Bahasa Indonesia (Native)", "English (B1)"]
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>👤 Profile</h3>
+      <ul>
+        <li><b>Name:</b> David Mario Yohanes Samosir [cite: 1]</li>
+        <li><b>Role:</b> IT Network & AI Engineer [cite: 1]</li>
+        <li><b>Education:</b> B.Sc. Computer Science — GPA 3.96/4.00 [cite: 6]</li>
+        <li><b>Location:</b> West Java, Indonesia 🇮🇩 [cite: 1]</li>
+        <li><b>Languages:</b> Bahasa Indonesia (Native), English (B1) [cite: 6]</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎯 Expertise</h3>
+      <ul>
+        <li>🤖 AI Engineering & Deep Learning [cite: 6]</li>
+        <li>⚙️ Enterprise Automation & ERP Integration [cite: 6]</li>
+        <li>👁️ Computer Vision & Image Segmentation [cite: 6]</li>
+        <li>🔗 LLM Integration & Workflow Automation [cite: 6]</li>
+        <li>🚀 End-to-End ML Deployment & MLOps [cite: 6]</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-    @property
-    def expertise(self):
-        return [
-            "🤖 AI Engineering & Deep Learning",
-            "⚙️  Enterprise Automation & ERP Integration",
-            "👁️  Computer Vision & Image Segmentation",
-            "🔗  LLM Integration & Workflow Automation",
-            "🚀  End-to-End ML Deployment & MLOps",
-        ]
-
-    @property
-    def currently_building(self):
-        return "Enterprise-scale ERP AI automation pipelines 🏭"
-```
+> [cite_start]**Currently Building:** Enterprise-scale ERP AI automation pipelines 🏭 [cite: 6]
 
 ---
 
