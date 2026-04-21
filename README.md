@@ -46,7 +46,6 @@
   </tr>
 </table>
 
-> [cite_start]**Currently Building:** Enterprise-scale ERP AI automation pipelines 🏭 [cite: 6]
 
 ---
 
